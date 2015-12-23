@@ -4,6 +4,6 @@ compare two pixel oriented images
 How schould we start it
 ## Tasks
 
-## rules
+## Rules
 
-** states
+## States
