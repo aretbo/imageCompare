@@ -17,3 +17,8 @@ there is lot to do
 2. passiv
 ```perl
 my $i = 4;
+while ($i > 0)
+{ 
+$i = $i -1;
+printl(" we have the value " . $i);
+  }
