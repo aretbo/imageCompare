@@ -1,9 +1,17 @@
 # imageCompare
 compare two pixel oriented images
-########## Questions
+## Questions
 How schould we start it
 ## Tasks
 there is lot to do
 ## Rules
 
 ## States
+init
+open
+waiting
+close
+
+## sub states
+active
+passiv
