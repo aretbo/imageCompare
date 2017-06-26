@@ -22,6 +22,8 @@ while ($i > 0)
    printl(" we have the value " . $i);
    $i = $i - 1;  
 }
+
+```
 > a
 > b 
 > x
