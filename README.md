@@ -12,6 +12,6 @@ open
 waiting
 close
 
-## sub states
-active
-passiv
+## subStates
+###active
+###passiv
