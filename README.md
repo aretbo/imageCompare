@@ -7,11 +7,11 @@ there is lot to do
 ## Rules
 
 ## States
-init
-open
-waiting
-close
+1. init
+2. open
+3. waiting
+4. close
 
 ## subStates
 1. active
-4. passiv
+2. passiv
