@@ -19,6 +19,6 @@ there is lot to do
 my $i = 4;
 while ($i > 0)
 { 
-$i = $i -1;
-printl(" we have the value " . $i);
-  }
+   printl(" we have the value " . $i);
+   $i = $i - 1;  
+}
