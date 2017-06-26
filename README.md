@@ -13,5 +13,5 @@ waiting
 close
 
 ## subStates
-###active
-###passiv
+. active
+. passiv
